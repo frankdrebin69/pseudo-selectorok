@@ -2,6 +2,7 @@ div {
     border: 1px solid black;
     width: 300px;
     margin: auto;
+    padding: 20px;
   }
   
   div:hover {
