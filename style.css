@@ -5,14 +5,13 @@ div {
     padding: 20px;
   }
   
-  div:hover {
-    background-color: rgb(240, 78, 14);
-  }
-  
   div:first-of-type {
     border-top-width: 0;
   }
   
   div:last-of-type {
     border-bottom-width: 0;
+  }
+  div:hover {
+    background-color: rgb(240, 78, 14);
   }
